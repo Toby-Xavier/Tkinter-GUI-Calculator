@@ -28,12 +28,6 @@ This calculator demonstrates how Python can be used not only for scripts and log
 
 ---
 
-## 📷 Screenshot
-> *(Optional: Add a screenshot here once you run the app)*  
-You can capture your calculator running and drag the image into this section.
-
----
-
 ## ⚙️ How to Run
 1. Make sure you have **Python 3** installed.  
    Check with:
