@@ -42,11 +42,11 @@ You can capture your calculator running and drag the image into this section.
    ```
 2. Clone this repository:
    ```bash
-   git clone https://github.com/Toby-Xavier/GUI-Calculator.git
+   https://github.com/Toby-Xavier/Simple-Tkinter-GUI-Calculator.git
    ```
 3. Navigate to the project folder:
    ```bash
-   cd GUI-Calculator
+   cd Simple-Tkinter-GUI-Calculator
    ```
 4. Run the calculator:
    ```bash
@@ -65,7 +65,6 @@ You can capture your calculator running and drag the image into this section.
 - Add support for keyboard input (typing numbers/operators instead of only clicking buttons).
 - Include advanced operations (square root, percentage, exponents).
 - Dark mode / theme switcher.
-- Better error handling and user feedback.
 
 ---
 
