@@ -2,7 +2,7 @@
 
 A simple **GUI-based calculator** built with Python’s **Tkinter library**.  
 This project is designed as a beginner-friendly introduction to building desktop applications in Python.  
-👉 Repo: [GUI-Calculator](https://github.com/Toby-Xavier/GUI-Calculator)
+👉 Repo: [Simple-Tkinter-GUI-Calculator](https://github.com/Toby-Xavier/Simple-Tkinter-GUI-Calculator)
 
 ---
 
